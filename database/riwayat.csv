@@ -1,4 +1,7 @@
-id,nama,dokumen,status
-1,A,KTP,Selesai
-2,Angga,KK,Selesai
-3,Angga,KTP,Selesai
+id,nama,dokumen,kategori,status
+1,A,KTP,,Selesai
+2,Angga,KK,,Selesai
+3,Angga,KTP,,Selesai
+4,davina,KK,Darurat,Selesai
+5,davina,KTP,Lansia,Ditolak
+1,saya,syguiisuigfhifghns,,Selesai
